@@ -2,10 +2,10 @@
 This is just a collection of some 3D-Prints I've done.  I'll add more over time.  
 Some 3-D Prints will reside with the project they were designed for.
 
-##PCB Etching Tank
+## PCB Etching Tank
 Didn't really work, plus its kind of small.  I water tested it and it leaked.  I think it had more to to with the binding of the ABS material, than it did with the design.  Plus its small.
 
-##Fidgets
+## Fidgets
 I used a tutorial from youtube on how to make these: https://www.youtube.com/watch?v=Z1-gD06OPo0.  My nephew Jake wanted me to make him one, so I did. 
 
 * fidget/fidget.scad  This is the openscad file from that tutorial that I coded.  Nothing fancy.  It's custom to the bearings I have which are 17mm x 5mm.
